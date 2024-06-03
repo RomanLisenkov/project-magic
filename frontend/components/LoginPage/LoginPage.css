@@ -1,0 +1,9 @@
+#login-main-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+form{
+  width: 463px;
+
+}

@@ -1,0 +1,42 @@
+﻿.form_add_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* .card {
+  width: 200px;
+
+  border: solid 1px black;
+  padding: 10px;
+} */
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+img {
+  width: 250px;
+  border-radius: 16px;
+}
+
+h4 {
+  color: orange;
+}
+
+.form-label {
+  color: orange;
+}
+
+#add-new-card {
+  margin: 20px;
+}

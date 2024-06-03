@@ -1,0 +1,52 @@
+.card {
+    padding: 1em;
+    background: rgba(255, 255, 255, 0.35);
+    border-radius: 19px;
+    max-width: 280px;
+    text-align: center;
+}
+
+.head {
+    position: relative;
+    min-height: 165px;
+}
+
+.footer {
+    padding: 5px;
+}
+
+.title {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600px;
+    line-height: normal;
+    /* text-align: left; */
+}
+
+.condition,
+.city,
+.price {
+    color: orange;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: normal; */
+    /* text-align: left; */
+}
+
+button {
+    color: white;
+    background-color: green;
+}
+
+.add-to-cart {
+    color: white;
+    background-color: green;
+}
+
+.btn-return-card {
+    color: white;
+    background-color: red;
+}
